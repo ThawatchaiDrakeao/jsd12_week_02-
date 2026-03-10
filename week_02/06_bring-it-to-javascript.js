@@ -31,4 +31,4 @@ let myCart = [
     { productId: "B003", quantity: 2 }  
 ];
 
-
+console. log(myCart)

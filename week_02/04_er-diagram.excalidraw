@@ -37,6 +37,36 @@
         1
       ],
       "crop": null
+    },
+    {
+      "id": "z8WnYU0EL8-T6eWQIxTWX",
+      "type": "diamond",
+      "x": 1096.2001342773438,
+      "y": 591.5101463794708,
+      "width": 72.40008544921875,
+      "height": 73.60000610351562,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 56556126,
+      "version": 27,
+      "versionNonce": 1347170114,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1773130703222,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {

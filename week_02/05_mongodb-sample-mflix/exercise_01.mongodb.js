@@ -1,3 +1,4 @@
+use("sample_mflix");
 
 
 //Fetch only one user from comments collection by _id = “5a9427648b0beebeb69579f5”.
@@ -10,3 +11,14 @@
 // findOne = Documet เป็นไฟล์ใหญ่ ที่เราจะใช้ในคำสั่ง
 
 //Fields =   Fields  คือชื่อที่แท๊กอยู่หน้าชุด ข้อมูล 
+
+
+
+
+
+
+
+
+db.comments.findOne({ _id: ObjectId("5a9427648b0beebeb69579f5") })  
+
+
